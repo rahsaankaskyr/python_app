@@ -9,3 +9,11 @@ print('Hello World!')
 
 #print substrings 
 
+#print number 
+print(3)
+
+#print same lime
+print(1,2,3, 'Hello')
+
+#print new lines
+print('Line1\nLine2\nLine3')
